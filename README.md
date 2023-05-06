@@ -60,3 +60,4 @@ If this finish successfully you should have a executable called `testRun` in the
 ```
 ./testRun --gtest_output="xml:./testOutput.xml"
 ```
+
